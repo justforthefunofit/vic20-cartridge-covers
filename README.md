@@ -11,7 +11,7 @@ You can find the Word template and the different examples here , use and adapt f
 
 [cartridge-sleeve-template.docx](https://github.com/justforthefunofit/vic20-cartridge-sleeve/files/15053249/cartridge-sleeve-template.docx)
 
-The following PDF's you can us:
+I created the following PDF's (free to use)
 
 
 [vic-1931-clowns.pdf](https://github.com/justforthefunofit/vic20-cartridge-sleeve/files/15053263/vic-1931-clowns.pdf)
@@ -27,3 +27,9 @@ The following PDF's you can us:
 [vic-1904-slot.pdf](https://github.com/justforthefunofit/vic20-cartridge-sleeve/files/15053253/vic-1904-slot.pdf)
 [vic-1902-star-battle.pdf](https://github.com/justforthefunofit/vic20-cartridge-sleeve/files/15053252/vic-1902-star-battle.pdf)
 [vic-1901-avenger.pdf](https://github.com/justforthefunofit/vic20-cartridge-sleeve/files/15053251/vic-1901-avenger.pdf)
+
+
+**Result**
+![vic-20-cartridge-collection](https://github.com/justforthefunofit/vic20-cartridge-sleeve/assets/116113817/0f8cb21a-d3c2-4bdb-8778-00f23b0d8f41)
+
+![vic-20-sleeve-examples](https://github.com/justforthefunofit/vic20-cartridge-sleeve/assets/116113817/f6069726-e1ac-4425-a7c9-7f9dc37f1f44)
