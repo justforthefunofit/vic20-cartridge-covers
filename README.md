@@ -1,5 +1,5 @@
-# vic20-cartridge-sleeve
-**Create small sleeves for your VIC-20 cartridges**
+# vic20-cartridge-covers
+**Create small covers for your VIC-20 cartridges**
 
 In my collection of VIC-20 cartridges, I also have cartridges without the original box. I thought it would be fun to make a cover for these cartridges with some detailed information about the cartridge.
 
