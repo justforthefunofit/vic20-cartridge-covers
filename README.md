@@ -1,7 +1,7 @@
 # vic20-cartridge-sleeve
 **Create small sleeves for your VIC-20 cartridges**
 
-As I can't find all cartridges completely boxed, or I find the price to high for that I collect them without the box. 
+In my collection of VIC-20 cartridges, I also have cartridges without the original box. I thought it would be fun to make a cover for these cartridges with some detailed information about the cartridge.
 
 ![image](https://github.com/justforthefunofit/vic20-cartridge-sleeve/assets/116113817/40cdf23d-6d5d-4aba-958f-4df212e7a4cd)
 
