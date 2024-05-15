@@ -6,6 +6,7 @@ In my collection of VIC-20 cartridges, I also have cartridges without the origin
 ![image](https://github.com/justforthefunofit/vic20-cartridge-sleeve/assets/116113817/40cdf23d-6d5d-4aba-958f-4df212e7a4cd)
 
 Putting them on the self it is hard to distinguish then from one another. Some people use the label machine to print strips with the title and stick that to the side. I don't want to damage the cartridge so I came up with something different. I created small sleeves. I created a Word template, which you can download here and then created a sleeve using glossy photo printer paper. At first I was looking to create an exact replica of the original box, however I changed that to creating a free impression look a like. This way I could add a scene on the sleeve and also some game information.
+
 ---
 > [!TIP]
 >You can find the Word template and the different examples here , use and adapt freely.
@@ -16,6 +17,7 @@ Putting them on the self it is hard to distinguish then from one another. Some p
 > You can see how I created them here on my channel.
 > https://youtu.be/ij_tWQWm1U8?si=HlpgGNWk1whPYTtz
 ---
+
 I created the following PDF's (free to use)
 
 - [vic-1931-clowns.pdf](https://github.com/justforthefunofit/vic20-cartridge-sleeve/files/15053263/vic-1931-clowns.pdf)
